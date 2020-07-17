@@ -23,9 +23,8 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 ---
 Obrigado pela visita! 💜 by [Ivo pereira jr](https://github.com/vanessakoch)
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-pereira-3997911a8/)](https://www.linkedin.com/in/ivo-pereira-3997911a8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivopereira.jr12@gmail.com)](mailto:ivopereira.jr12@gmail.com)
+
 
 
