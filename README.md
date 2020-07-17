@@ -21,7 +21,7 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 
 
 ---
-Obrigado pela visita! 💜 by [Ivo pereira jr](https://github.com/vanessakoch)
+Obrigado pela visita! 💜 by [Ivo pereira jr](https://github.com/ivopereira-jr)
 
 
 
