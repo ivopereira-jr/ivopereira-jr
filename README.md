@@ -14,13 +14,14 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 - Css 
 - Html
 - Javascript
+- React
 - Node.js
 - PostgreSql
 
 
 ---
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivopereira-jr/)](https://www.linkedin.com/in/ivopereira-jr/)
+
+
 Obrigado pela visita! 💜 by [Ivo pereira jr](https://github.com/ivopereira-jr)
-
-
-
-
