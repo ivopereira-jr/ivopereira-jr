@@ -9,7 +9,7 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 
 </br>
 
-# 🚀 Tecnologias que estol aprendendo
+# 🚀 Tecnologias que estol estudando
 
 - Css 
 - Html
