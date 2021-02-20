@@ -11,11 +11,11 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 
 # 🚀 Tecnologias que estol estudando
 
-- Css 
-- Html
-- Javascript
+- CSS3
+- HTML5
+- JavaScript
 - ReactJs
-- Node.js
+- Node.Js
 - PostgreSql
 
 
