@@ -15,8 +15,6 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 - HTML5
 - JavaScript
 - ReactJs
-- Node.Js
-- PostgreSql
 
 
 ---
