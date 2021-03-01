@@ -7,7 +7,7 @@ Bom em resumo atualmente estol estudando para me tornar um dev web ainda estol v
 
 no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnologias que escolhi para atuar com elas nos desenvolvimentos bom no mais e isso ii bora coda praticar muito para se aperfeiçoar e melhorar cada dia mais 
 
-</br>
+<br/>
 
 # 🚀 Tecnologias que estol estudando
 
@@ -17,7 +17,10 @@ no momento estol fazendo o bootcamp da rocketseat para tentar dominar as tecnolo
 - ReactJs
 
 
+
 ---
+
+
 
 ### Github Stats
 
