@@ -27,7 +27,6 @@
 Git stats [Anurag Hazra](https://github.com/anuraghazra)
 
 
-
 Obrigado pela visita! 💜 by [Ivo pereira jr](https://github.com/ivopereira-jr)
 
 
