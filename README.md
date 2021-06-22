@@ -1,26 +1,32 @@
 # bem vindos(a)
 
 
-### Ola pessoas!  👋
+### Ola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> sou Ivo
 
+<p>Desejo me tornar um desenvolvedor Front End.</p>
+
+
+- 🔭 Atualmente estudado desenvolvimento web
+- 📫 Como entrar em contato comigo: ivopereira.jr12@gmail.com
+- ⚡ Curiosidades Gosto de ver boas séries e às vezes jogar um bom fps para relaxar
 
 <br/>
 
-# 🚀 Tecnologias que estol estudando
+🚀 Tecnologias que estou estudando
 
-- CSS
-- HTML
-- JavaScript
-- ReactJs
-- Node.Js
-
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></p><p align="center">
+</p>
 
 ---
 
-
-
 ### Github Stats
+
+NOTA: As principais tecnologias não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais tecnologias eu tenho mais código no github, é um novo recurso do github-readme-stats
 
 [![Top Langs](https://github-readme-stats.ivopereira-jr.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact)](https://github.com/ivopereira-jr/github-readme-stats) 
 
