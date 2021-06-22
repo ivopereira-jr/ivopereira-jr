@@ -6,7 +6,7 @@
 <p>Desejo me tornar um desenvolvedor Front End.</p>
 
 
-- 🔭 Atualmente estudado desenvolvimento web
+- 🔭 Atualmente estudando desenvolvimento web
 - 📫 Como entrar em contato comigo: ivopereira.jr12@gmail.com
 - ⚡ Curiosidades Gosto de ver boas séries e às vezes jogar um bom fps para relaxar
 
