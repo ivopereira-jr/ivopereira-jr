@@ -28,10 +28,10 @@
 
 NOTA: As principais tecnologias não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais tecnologias eu tenho mais código no github, é um novo recurso do github-readme-stats
 
-[![Top Langs](https://github-readme-stats.ivopereira-jr.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact)](https://github.com/ivopereira-jr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.ivopereira-jr.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark)](https://github.com/ivopereira-jr/github-readme-stats)
 <br/>
 <br/>
-![Ivo Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=radical)
+![Ivo Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark)
 
 Git stats [Anurag Hazra](https://github.com/anuraghazra)
 
