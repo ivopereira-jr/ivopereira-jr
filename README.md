@@ -9,6 +9,7 @@
 - 🔭 Atualmente estudando desenvolvimento web
 - 📫 Como entrar em contato comigo: ivopereira.jr12@gmail.com
 - ⚡ Curiosidades Gosto de ver boas séries e às vezes jogar um bom fps para relaxar
+- 💼 <a href="https://portfolio-ivopereira-jr.vercel.app/" target="_blank">Meu portfolio</a>
 
 <br/>
 
