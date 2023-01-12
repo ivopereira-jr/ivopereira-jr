@@ -32,7 +32,7 @@ NOTA: As principais tecnologias não indicam meu nível de habilidade ou algo pa
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.ivopereira-jr.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" /> 
+  <img height="180em" src="https://github-readme-stats.ivopereira-jr.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" /> 
 </div>
 
 Git stats [Anurag Hazra](https://github.com/anuraghazra)
