@@ -31,8 +31,12 @@
 NOTA: As principais tecnologias não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais tecnologias eu tenho mais código no github, é um novo recurso do github-readme-stats
 
 <div align="left">
- <img height="180em" src="https://github-readme-stats.ivopereira-jr.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.ivopereira-jr.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" />
+  <a href="https://github.com/ivopereira-jr/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark" />
+  </a>
+  <a href="https://github.com/ivopereira-jr/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" />
+  </a>
 </div>
 
 Git stats [Anurag Hazra](https://github.com/anuraghazra)
