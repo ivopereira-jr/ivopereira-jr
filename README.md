@@ -32,10 +32,10 @@ NOTA: As principais tecnologias não indicam meu nível de habilidade ou algo pa
 
 <div align="left">
   <a href="https://github.com/ivopereira-jr/github-readme-stats">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark" />
+   <img height="180em" src="https://github-readme-stats-ivopereira.vercel.app/api/top-langs/?username=ivopereira-jr&layout=compact&theme=dark" />
   </a>
   <a href="https://github.com/ivopereira-jr/github-readme-stats">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" />
+   <img height="180em" src="https://github-readme-stats-ivopereira.vercel.app/api?username=ivopereira-jr&show_icons=true&theme=dark" />
   </a>
 </div>
 
